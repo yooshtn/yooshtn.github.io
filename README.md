@@ -7,7 +7,6 @@ I'd like to eventually use [this template](https://html5up.net/spectral) created
 ### Github Pages Goals
 - [ ] Serve as a portfolio for MySQL projects & Tableau visualizations
 - [ ] Contain an "About Me" section with a headshot, bio, and work experience/resume
-- [ ] Indicate preferred content methods
 - [ ] Showcase some of my personal style!
 
 ---
